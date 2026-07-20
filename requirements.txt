@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scipy
+
+# Modeling
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook
+jupyterlab
+ipykernel
+ipywidgets
+
+# Model persistence
+joblib
+
+# I/O
+openpyxl      # reads .xlsx
+pyarrow       # reads/writes .parquet
