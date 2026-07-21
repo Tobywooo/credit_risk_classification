@@ -220,3 +220,8 @@ __marimo__/
 # data files
 data
 dev_notes.txt
+Credit_Risk_Presentation.pptx
+reports/comparison_metrics.csv
+.gitignore
+reports/comparison_operating.csv
+reports/comparison_pairwise.csv
