@@ -3,10 +3,14 @@
 
 #Running notebooks on windows
 1. Create a virtual environment using
+    ```python
     python -m venv .venv
-
+    ```
 2. Activate virtual environment
+    ```python
     ./.venv/Scripts/Activate.ps1
-
+    ```
 3. Install required libraries
+   ```python
     pip install -r requirements.txt
+   ```
